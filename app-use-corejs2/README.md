@@ -1,4 +1,4 @@
-# app-use-corejs3
+# app-use-corejs2
 
 ## Project setup
 ```
